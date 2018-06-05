@@ -30,7 +30,8 @@ Week 7: [What did I learn?](https://medium.com/@e.roberts/what-did-i-learn-52a3
 
 ## Links
 
-- [Mapping your filter bubbles]()
+- [Personal filter bubble](https://drive.google.com/file/d/1eOKDdsJn8Fu0wqMXM23nWqc_8PUuSPcI/view?usp=sharing)
+- [Mapping your filter bubbles](https://drive.google.com/file/d/1TkZmxWQq8VmrZYUtyMQUTjaekgYu1rov/view?usp=sharing)
 - [10 (or so) bad ideas]()
 - [Interviews]()
 - [Idea sheet](https://docs.google.com/document/d/1voLJDJelC12e9Jzpv_OdP1IfZDWit2y25pqK18wNOJk/edit?usp=sharing)
