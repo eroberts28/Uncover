@@ -43,6 +43,6 @@ Week 7: [What did I learn?](https://medium.com/@e.roberts/what-did-i-learn-52a3
 - [Initial Digital prototype(s)](https://drive.google.com/drive/folders/1_MvOPo-Emk2FeBiGjGikw_ev8kXDwxIq?usp=sharing)
 - [Final Digital prototype(s)](https://drive.google.com/drive/folders/1wa0e0zdQ5_HbaXQniZQiAfF3OxZhhEca?usp=sharing)
 - [Concept video]()
-- [Landing page]()
+- [Landing page](https://uncoverux.carrd.co/)
 - [Formative Presentation]()
 - [Summative presentation]()
