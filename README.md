@@ -32,8 +32,8 @@ Week 7: [What did I learn?](https://medium.com/@e.roberts/what-did-i-learn-52a3
 
 - [Personal filter bubble](https://drive.google.com/file/d/1eOKDdsJn8Fu0wqMXM23nWqc_8PUuSPcI/view?usp=sharing)
 - [Mapping your filter bubbles](https://drive.google.com/file/d/1TkZmxWQq8VmrZYUtyMQUTjaekgYu1rov/view?usp=sharing)
-- [10 (or so) bad ideas]()
-- [Interviews]()
+- [10 (or so) bad ideas](https://docs.google.com/document/d/1KoOf1VgsNBZ70_1UmiCRYNvjT1ZkiW1Acff5J_C3npo/edit?usp=sharing)
+- [Interviews](https://docs.google.com/document/d/1CYBWEw5ZiVhOAQhUwJJRJcq7hPFb_wXiVdQQUJIWNxg/edit?usp=sharing)
 - [Idea sheet](https://docs.google.com/document/d/1voLJDJelC12e9Jzpv_OdP1IfZDWit2y25pqK18wNOJk/edit?usp=sharing)
 - [Competitor analysis](https://docs.google.com/document/d/1vOWtJBW8rxUakwju_x9I4GDeQFtgbCEKWOFAi4lto80/edit?usp=sharing)
 - [Target Audience](https://docs.google.com/document/d/1HkDFRX7DF7WYiGhBCwY1mEqjaOoioMz2Qy7959eGOmk/edit?usp=sharing)
