@@ -106,6 +106,7 @@ Week 7: [What did I learn?](https://medium.com/@e.roberts/what-did-i-learn-52a3
 - [Logo](https://drive.google.com/drive/folders/17XLCqsjGzPRI_yC383DuzGBkrX1nAnQt?usp=sharing)
 - [Initial Digital prototype(s)](https://drive.google.com/drive/folders/1_MvOPo-Emk2FeBiGjGikw_ev8kXDwxIq?usp=sharing)
 - [Final Digital prototype(s)](https://drive.google.com/drive/folders/1wa0e0zdQ5_HbaXQniZQiAfF3OxZhhEca?usp=sharing)
+- [Initial Prototype video[(https://drive.google.com/open?id=1LuPuTlcYc4LhaxTrUUdffygCYAWrVssz)
 - [Prototype Video](https://drive.google.com/drive/folders/13u23FYzAl8dIlIhQgwIeLt4HFdaNYaBO?usp=sharing)
 - [Concept video](https://drive.google.com/drive/folders/1MVHu8Kx05YA3xofNF6UvoA3ao32R9k54?usp=sharing)
 - [Landing page](https://uncoverux.carrd.co/)
